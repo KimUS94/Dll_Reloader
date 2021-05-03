@@ -1,0 +1,11 @@
+C:\Users\ISET-DA\Workplace\VisualStudio\2015\Dll_Reloader\Dll_Reloader\bin\Debug\Dll_Reloader.exe.config
+C:\Users\ISET-DA\Workplace\VisualStudio\2015\Dll_Reloader\Dll_Reloader\bin\Debug\Dll_Reloader.exe
+C:\Users\ISET-DA\Workplace\VisualStudio\2015\Dll_Reloader\Dll_Reloader\bin\Debug\Dll_Reloader.pdb
+C:\Users\ISET-DA\Workplace\VisualStudio\2015\Dll_Reloader\Dll_Reloader\obj\Debug\Dll_Reloader.csprojResolveAssemblyReference.cache
+C:\Users\ISET-DA\Workplace\VisualStudio\2015\Dll_Reloader\Dll_Reloader\obj\Debug\Dll_Reloader.Properties.Resources.resources
+C:\Users\ISET-DA\Workplace\VisualStudio\2015\Dll_Reloader\Dll_Reloader\obj\Debug\Dll_Reloader.csproj.GenerateResource.Cache
+C:\Users\ISET-DA\Workplace\VisualStudio\2015\Dll_Reloader\Dll_Reloader\obj\Debug\Dll_Reloader.exe
+C:\Users\ISET-DA\Workplace\VisualStudio\2015\Dll_Reloader\Dll_Reloader\obj\Debug\Dll_Reloader.pdb
+C:\Users\ISET-DA\Workplace\VisualStudio\2015\Dll_Reloader\Dll_Reloader\bin\Debug\FX.Framework.Assembly.dll
+C:\Users\ISET-DA\Workplace\VisualStudio\2015\Dll_Reloader\Dll_Reloader\bin\Debug\FX.Framework.Assembly.pdb
+C:\Users\ISET-DA\Workplace\VisualStudio\2015\Dll_Reloader\Dll_Reloader\obj\Debug\Dll_Reloader.MainForm.resources
