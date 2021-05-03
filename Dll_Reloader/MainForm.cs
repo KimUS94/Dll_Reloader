@@ -10,6 +10,9 @@ using System.Windows.Forms;
 
 namespace Dll_Reloader
 {
+    /*
+     * Dot Net DLL re-load test code
+     */
     public partial class MainForm : Form
     {
         private string m_path;

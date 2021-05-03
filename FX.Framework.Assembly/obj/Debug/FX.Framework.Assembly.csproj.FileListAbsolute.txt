@@ -2,3 +2,4 @@ C:\Users\ISET-DA\Workplace\VisualStudio\2015\Dll_Reloader\FX.Framework.Assembly\
 C:\Users\ISET-DA\Workplace\VisualStudio\2015\Dll_Reloader\FX.Framework.Assembly\bin\Debug\FX.Framework.Assembly.pdb
 C:\Users\ISET-DA\Workplace\VisualStudio\2015\Dll_Reloader\FX.Framework.Assembly\obj\Debug\FX.Framework.Assembly.dll
 C:\Users\ISET-DA\Workplace\VisualStudio\2015\Dll_Reloader\FX.Framework.Assembly\obj\Debug\FX.Framework.Assembly.pdb
+C:\Users\ISET-DA\Workplace\VisualStudio\2015\Dll_Reloader\FX.Framework.Assembly\obj\Debug\FX.Framework.Assembly.csprojResolveAssemblyReference.cache

@@ -2,3 +2,4 @@ C:\Users\ISET-DA\Workplace\VisualStudio\2015\Dll_Reloader\ClassLibrary\bin\Debug
 C:\Users\ISET-DA\Workplace\VisualStudio\2015\Dll_Reloader\ClassLibrary\bin\Debug\ClassLibrary.pdb
 C:\Users\ISET-DA\Workplace\VisualStudio\2015\Dll_Reloader\ClassLibrary\obj\Debug\ClassLibrary.dll
 C:\Users\ISET-DA\Workplace\VisualStudio\2015\Dll_Reloader\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\ISET-DA\Workplace\VisualStudio\2015\Dll_Reloader\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
