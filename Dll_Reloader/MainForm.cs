@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace Dll_Reloader
 {
+    //https://docs.microsoft.com/ko-kr/dotnet/api/system.appdomain?view=net-5.0
     /*
      * Dot Net DLL re-load test code
      */
@@ -61,7 +62,7 @@ namespace Dll_Reloader
 
                 return result;
             }
-            catch(Exception ex)
+            catch(AppDomainUnloadedException ex)
             {
                 //
                 return null;
